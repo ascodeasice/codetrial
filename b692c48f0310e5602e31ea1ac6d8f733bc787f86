@@ -1,0 +1,1 @@
+{"version":1,"worktree_tree":"a32161e595d67c30cb0fba87d7c9e09a7fe43453","receipts":[{"lane":"rust","passed":true,"skipped":2,"time":"2026-11-23T14:04:17Z","rustc":"rustc 1.100.0 (0ef1bc386 2026-11-09) (Arch Linux rust 1:1.100.0-1)","cargo":"cargo 1.100.0 (3acc79c0c 2026-11-05) (Arch Linux rust 1:1.100.0-1)"}]}
